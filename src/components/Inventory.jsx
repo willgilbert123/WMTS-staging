@@ -1,0 +1,1 @@
+export default function Inventory() { return <div>📦 Fake Inventory Data Displayed Here</div> }

@@ -1,0 +1,1 @@
+import QRCode from 'qrcode.react'; export default function QRCodeView() { return <div><QRCode value='Shelf-ABC123' /></div> }

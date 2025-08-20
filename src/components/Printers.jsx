@@ -1,0 +1,1 @@
+export default function Printers() { return <div>🖨️ Fake Printers List</div> }
